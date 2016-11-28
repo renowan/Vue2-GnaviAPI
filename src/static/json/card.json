@@ -1,0 +1,159 @@
+{
+	"cardInfos": [
+		{
+		  "attack": 4660,
+		  "attributeId": 2,
+		  "attributeName": "水",
+		  "cardId": "1454301",
+		  "cost": 19,
+		  "defense": 4460,
+		  "effectId": 3100,
+		  "image1": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/160x160/1454301.jpg",
+		  "image2": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/498x664/1454301.jpg",
+		  "image3": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/anime/220x294/1454301.jpg",
+		  "leaderFlg": false,
+		  "level": {
+		    "current": 1,
+		    "max": 60
+		  },
+		  "cardName": "書き換え対象",
+		  "participation": false,
+		  "rarityId": 5,
+		  "rarityName": "Ｕレア",
+		  "viewSkill": {
+		    "comment": "水･火ﾀｲﾌﾟの攻 大ｱｯﾌﾟ",
+		    "level": 1,
+		    "maxLevel": 10,
+		    "skillEffect": null,
+		    "skillId": 2441101,
+		    "skillName": "輝く紫の加護"
+		  },
+		  "userCardNo": 27,
+		  "restCard":3,
+		  "resturCard":1,
+		  "autoBuildupUsed":false,
+		  "autoSellUsed":true
+		},
+		{
+		  "attack": 4104,
+		  "attributeId": 1,
+		  "attributeName": "森",
+		  "cardId": "1462901",
+		  "cost": 15,
+		  "defense": 10000,
+		  "effectId": 9300,
+		  "image1": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/160x160/1462901.jpg",
+		  "image2": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/498x664/1462901.jpg",
+		  "image3": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/anime/220x294/1462901.jpg",
+		  "leaderFlg": true,
+		  "level": {
+		    "current": 1,
+		    "max": 70
+		  },
+		  "cardName": "[純愛]絆に誓うｱﾗﾝとﾚﾘｱ",
+		  "participation": false,
+		  "rarityId": 6,
+		  "rarityName": "Ｕレア＋",
+		  "viewSkill": {
+		    "comment": "森ﾀｲﾌﾟの攻 特大ｱｯﾌﾟ",
+		    "level": 1,
+		    "maxLevel": 10,
+		    "skillEffect": null,
+		    "skillId": 1504702,
+		    "skillName": "永遠の愛"
+		  },
+		  "userCardNo": 59
+		},
+		{
+		  "attack": 3550,
+		  "attributeId": 1,
+		  "attributeName": "森",
+		  "cardId": "1535002",
+		  "cost": 15,
+		  "defense": 2150,
+		  "effectId": 3100,
+		  "image1": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/160x160/1535002.jpg",
+		  "image2": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/498x664/1535002.jpg",
+		  "image3": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/anime/220x294/1535002.jpg",
+		  "leaderFlg": false,
+		  "level": {
+		    "current": 1,
+		    "max": 70
+		  },
+		  "cardName": "[張合]陽光と暴風の相克",
+		  "participation": false,
+		  "rarityId": 6,
+		  "rarityName": "Ｕレア＋",
+		  "viewSkill": {
+		    "comment": "全ﾀｲﾌﾟの攻守 大ｱｯﾌﾟ",
+		    "level": 1,
+		    "maxLevel": 10,
+		    "skillEffect": null,
+		    "skillId": 1535002,
+		    "skillName": "冷風と陽光"
+		  },
+		  "userCardNo": 135
+		},
+		{
+		  "attack": 8580,
+		  "attributeId": 3,
+		  "attributeName": "火",
+		  "cardId": "3535802",
+		  "cost": 17,
+		  "defense": 6300,
+		  "effectId": 3100,
+		  "image1": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/160x160/3535802.jpg",
+		  "image2": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/498x664/3535802.jpg",
+		  "image3": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/anime/220x294/3535802.jpg",
+		  "leaderFlg": false,
+		  "level": {
+		    "current": 1,
+		    "max": 70
+		  },
+		  "cardName": "[光射]陽光に包まれるｻｼｬ",
+		  "participation": false,
+		  "rarityId": 6,
+		  "rarityName": "Ｕレア＋",
+		  "viewSkill": {
+		    "comment": "全ﾀｲﾌafafafafaﾟ",
+		    "level": 1,
+		    "maxLevel": 10,
+		    "skillEffect": null,
+		    "skillId": 3535802,
+		    "skillName": "肌を焼く日差し"
+		  },
+		  "userCardNo": 123
+		},
+		{
+		  "attack": 10040,
+		  "attributeId": 3,
+		  "attributeName": "火",
+		  "cardId": "3535902",
+		  "cost": 18,
+		  "defense": 8980,
+		  "effectId": 3100,
+		  "image1": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/160x160/3535902.jpg",
+		  "image2": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/498x664/3535902.jpg",
+		  "image3": "https://d2s1v613p2pins.cloudfront.net/1e6eb/img/card/anime/220x294/3535902.jpg",
+		  "leaderFlg": false,
+		  "level": {
+		    "current": 1,
+		    "max": 70
+		  },
+		  "cardName": "[軍配]情熱的な麗人ｻｼｬ",
+		  "participation": false,
+		  "rarityId": 6,
+		  "rarityName": "Ｕレア＋",
+		  "viewSkill": {
+		    "comment": "全ﾀｲﾌﾟの攻守 特大ｱｯﾌﾟ",
+		    "level": 1,
+		    "maxLevel": 10,
+		    "skillEffect": null,
+		    "skillId": 3535902,
+		    "skillName": "艶やかなる唇"
+		  },
+		  "userCardNo": 122
+		}
+
+	]
+}

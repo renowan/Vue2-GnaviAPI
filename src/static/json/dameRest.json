@@ -1,0 +1,77 @@
+{
+    "rest": {
+      "@attributes": {
+        "order": "0"
+      },
+      "id": "g233718",
+      "update_date": "2016-11-25 06:11:29",
+      "name": "Terrace Dining TANGO ",
+      "name_kana": "テラスダイニングタンゴ",
+      "latitude": "35.655928",
+      "longitude": "139.749022",
+      "category": {},
+      "url": {},
+      "url_mobile": {},
+      "coupon_url": {
+        "pc": {},
+        "mobile": {}
+      },
+      "image_url": {
+        "shop_image1": "http://uds.gnst.jp/rest/img/emypv9rm0000/t_00h3.jpg",
+        "shop_image2": {},
+        "qrcode": "http://r.gnst.jp/tool/qr/?id=g233718&q=6"
+      },
+      "address": {},
+      "tel": "050-5799-2560",
+      "tel_sub": "03-5733-6866",
+      "fax": {},
+      "opentime": "月～土・祝前日 ランチ：11:30～15:00(L.O.14:00)<BR>日・祝日 ランチ：11:30～16:00(L.O.15:00)<BR>月～土 ディナー：17:00～23:30(L.O.23:00)(※2016年5月31日までディナータイムのCLOSEが24:00となります。)<BR>日・祝日 ディナー：17:00～22:30(L.O.21:30)",
+      "holiday": "不定休日あり<BR>※【営業案内】11月4日,5日,6日,10日,22日，25日ランチタイムのみ貸切営業",
+      "access": {
+        "line": "都営大江戸線",
+        "station": "赤羽橋駅",
+        "station_exit": "赤羽橋口",
+        "walk": "5",
+        "note": {}
+      },
+      "parking_lots": {},
+      "pr": {
+        "pr_short": "東京タワー×夜景を独り占めできる絶景ロケーション 想い出に残るプロポーズプランで人生最高のひとときを演出 2016クリスマスコースのご予約受付スタート",
+        "pr_long": "東京タワー目の前、正面玄関向かい側に佇む、東京のシンボルとして名高い場所で<BR>新しい歴史を刻み続けるダイニングレストラン“Terrace Dining TANGO”<BR>店内は、都会の喧騒から離れた、バリリゾートを思わせるガーデンテラスと<BR>コンセプトの異なる、非日常の上質空間を演出したフロアを完備。<BR>※テラス席は天候によりご予約が承れない場合がございます<BR>◆最高のロケーションで叶う、プロポーズプラン<BR>ブライダル施設が併設しているからこそできる<BR>天空のチャペルでプロポーズを実現<BR><BR>◆記念日・誕生日の大切な日に‥アニバーサリープラン<BR>ハーフボトル1本と特製メッセージ入りケーキで<BR>想い出に残るディナータイムを演出<BR><BR>■最寄駅 神谷町 赤羽橋 6分 御成門10分 六本木 15分タクシー7分<BR>■利用シーン 記念日 サプライズ 会食 接待 テラス 合コン 女子会"
+      },
+      "code": {
+        "areacode": "AREA110",
+        "areaname": "関東",
+        "prefcode": "PREF13",
+        "prefname": "東京都",
+        "areacode_s": "AREAS2174",
+        "areaname_s": "芝公園・東京タワー周辺",
+        "category_code_l": [
+          "RSFST11000",
+          "RSFST11000"
+        ],
+        "category_name_l": [
+          "イタリアン・フレンチ",
+          "イタリアン・フレンチ"
+        ],
+        "category_code_s": [
+          "RSFST11002",
+          "RSFST11001"
+        ],
+        "category_name_s": [
+          "イタリアン(イタリア料理)",
+          "フレンチ(フランス料理)"
+        ]
+      },
+      "budget": "5000",
+      "party": "6000",
+      "lunch": "1200",
+      "credit_card": "VISA,MasterCard,UC,DC,アメリカン・エキスプレス,JCB,NICOS,MUFG",
+      "e_money": {},
+      "flags": {
+        "mobile_site": "1",
+        "mobile_coupon": "1",
+        "pc_coupon": "1"
+      }
+    }
+}
