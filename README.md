@@ -1,6 +1,8 @@
-# my-vue
-
-> A Vue.js project
+# Vue2 + GnaviAPI
+- Vue 2.0x
+- vue-router
+- vuex
+- Electron
 
 ## Build Setup
 
